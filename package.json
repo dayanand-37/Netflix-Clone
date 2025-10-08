@@ -1,0 +1,29 @@
+{
+  "name": "netflix-clone-frontend",
+  "version": "1.0.0",
+  "description": "Netflix Clone Frontend with Backend Integration",
+  "main": "index.html",
+  "scripts": {
+    "start": "node serve.js",
+    "dev": "node serve.js",
+    "build": "echo 'No build process needed for static files'",
+    "serve": "node serve.js"
+  },
+  "keywords": [
+    "netflix",
+    "clone",
+    "frontend",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
